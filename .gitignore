@@ -1,0 +1,8 @@
+# Eclipse project files.
+.cache/
+.settings/
+.project
+
+# Site data
+sites/default
+
