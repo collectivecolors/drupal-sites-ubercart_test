@@ -16,3 +16,9 @@
 [submodule "sites/all/modules/ubercart"]
 	path = sites/all/modules/ubercart
 	url = git://zimigi.com/drupal/sites/all/modules/ubercart
+[submodule "sites/all/modules/uc_order_export"]
+	path = sites/all/modules/uc_order_export
+	url = git://zimigi.com/drupal/sites/all/modules/uc_order_export
+[submodule "sites/all/modules/uc_member_pricing"]
+	path = sites/all/modules/uc_member_pricing
+	url = git://zimigi.com/drupal/sites/all/modules/uc_member_pricing
