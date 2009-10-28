@@ -1,0 +1,18 @@
+[submodule "sites/all/modules/admin_menu"]
+	path = sites/all/modules/admin_menu
+	url = git://zimigi.com/drupal/sites/all/modules/admin_menu
+[submodule "sites/all/modules/devel"]
+	path = sites/all/modules/devel
+	url = git://zimigi.com/drupal/sites/all/modules/devel
+[submodule "sites/all/modules/cck"]
+	path = sites/all/modules/cck
+	url = git://zimigi.com/drupal/sites/all/modules/cck
+[submodule "sites/all/modules/views"]
+	path = sites/all/modules/views
+	url = git://zimigi.com/drupal/sites/all/modules/views
+[submodule "sites/all/modules/token"]
+	path = sites/all/modules/token
+	url = git://zimigi.com/drupal/sites/all/modules/token
+[submodule "sites/all/modules/ubercart"]
+	path = sites/all/modules/ubercart
+	url = git://zimigi.com/drupal/sites/all/modules/ubercart
