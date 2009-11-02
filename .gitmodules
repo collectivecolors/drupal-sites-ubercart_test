@@ -22,3 +22,6 @@
 [submodule "sites/all/modules/uc_member_pricing"]
 	path = sites/all/modules/uc_member_pricing
 	url = git://zimigi.com/drupal/sites/all/modules/uc_member_pricing
+[submodule "sites/all/modules/uc_bulk_discount"]
+	path = sites/all/modules/uc_bulk_discount
+	url = git://zimigi.com/drupal/sites/all/modules/uc_bulk_discount
